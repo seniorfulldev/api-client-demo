@@ -1,0 +1,12 @@
+{
+    "name": "mark/gcl-api-client",
+    "authors": [
+        {
+            "name": "Mark Clu Heramis",
+            "email": "chumheramis@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.2"
+    }
+}
